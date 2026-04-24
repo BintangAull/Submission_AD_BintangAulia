@@ -1,1 +1,2 @@
 link_dashboard=https://submissionadbintangaulia-hanakpaqhpjrma6pbijxyv.streamlit.app/
+github=https://github.com/BintangAull/Submission_AD_BintangAulia.git
